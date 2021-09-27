@@ -41,6 +41,6 @@ jobs:
           # Any custom parameters to pass to the script. Multiple parameters are defined on separate lines.
           #arguments: # optional
           # The version of Cake to install.
-          cake-version: latest
+          cake-version: strange-unsupported-value
           # Flag for if Cake modules should be installed/bootstrapped.
           #cake-bootstrap: # optional, default is false
